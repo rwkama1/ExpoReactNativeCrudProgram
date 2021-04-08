@@ -16,7 +16,7 @@ const Stack=createStackNavigator();
 
 class App extends Component
 {
-
+//
   MyStack()
   {
     return(
